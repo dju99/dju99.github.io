@@ -21,7 +21,7 @@ VS Code에서 Markdown 편집기를 설정하는 방법을 알아보겠습니다
 
 확장 프로그램 설치 후 .md 확장자 파일을 만들어줍니다.
 
-<img src="(https://github.com/dju99/dju99.github.io/assets/137643698/cc16b0fb-8978-4344-9cc9-853b68aaf70f" width="50%">
+<img src="https://github.com/dju99/dju99.github.io/assets/137643698/cc16b0fb-8978-4344-9cc9-853b68aaf70f" width="50%">
 
 <br>
 
