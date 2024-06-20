@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "그리디 알고리즘 (탐욕법)"
 excerpt_separator: <!--break-->
 date: 2024-06-18

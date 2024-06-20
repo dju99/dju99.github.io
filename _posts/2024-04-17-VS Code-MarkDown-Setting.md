@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: "VS Code에서 Makdown 편집기 세팅하기"
 excerpt_separator: <!--break-->
 date: 2024-04-17
