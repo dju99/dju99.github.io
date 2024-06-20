@@ -21,7 +21,7 @@ VS Code에서 Markdown 편집기를 설정하는 방법을 알아보겠습니다
 
 확장 프로그램 설치 후 .md 확장자 파일을 만들어줍니다.
 
-<img src="(https://github.com/dju99/dju99.github.io/assets/137643698/577c3f96-959c-43e2-abda-6f3912ffae16" width="50%">
+<img src="(https://github.com/dju99/dju99.github.io/assets/137643698/cc16b0fb-8978-4344-9cc9-853b68aaf70f" width="50%">
 
 <br>
 
@@ -33,4 +33,4 @@ VS Code에서 Markdown 편집기를 설정하는 방법을 알아보겠습니다
 
 표시된 미리보기 버튼을 누르면 실시간으로 문서를 보여줍니다.
 
-<img src="https://github.com/dju99/dju99.github.io/assets/137643698/6c220f92-2afc-4a42-8866-f42428e15896" width="50%">
+<img src="https://github.com/dju99/dju99.github.io/assets/137643698/afde387b-feed-49b3-a21f-60bf3b7e0871" width="50%">
