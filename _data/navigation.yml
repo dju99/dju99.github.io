@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: https://dju99.github.io/
- - title: "Github"
-     url: https://github.com/dju99?tab=repositories
+  # - title: "Github"
+  #   url: https://github.com/dju99?tab=repositories
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
