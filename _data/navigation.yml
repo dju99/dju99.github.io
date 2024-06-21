@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Home"
-    url: https://dju99.github.io/
+  # - title: "Home"
+  #  url: https://dju99.github.io/
   - title: "Category"
     url: /categories/
   # - title: "Sample Posts"
