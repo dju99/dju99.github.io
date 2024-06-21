@@ -14,5 +14,5 @@ main:
 docs:
   - title: "Category"
     children:
-      - title: 알고리즘
-      url: /algorithm/
+      - title: "알고리즘"
+        url: /algorithm
