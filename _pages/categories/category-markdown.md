@@ -1,5 +1,5 @@
 ---
-title: "마크다운"
+title: "Markdown"
 layout: archive
 permalink: /categories/markdown/
 author_profile: true
