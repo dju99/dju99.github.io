@@ -315,3 +315,15 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        nav: "docs"
