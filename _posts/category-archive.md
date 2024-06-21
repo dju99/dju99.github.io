@@ -1,5 +1,7 @@
 ---
 title: "Category"
-layout: archive
+layout: categories
 permalink: /categories/
+sidebar:
+  nav: "docs"
 ---
