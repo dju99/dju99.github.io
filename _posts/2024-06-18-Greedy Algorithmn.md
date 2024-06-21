@@ -3,7 +3,7 @@ layout: single
 title: "[알고리즘]그리디 알고리즘 (탐욕법)"
 excerpt_separator: <!--break-->
 categories:
-  - "algorithm"
+  - "Algorithm"
 date: 2024-06-18
 toc: true
 toc_sticky: true
