@@ -313,4 +313,5 @@ defaults:
       comments: # true
       share: true
       related: true
-      slidebar: true
+      slidebar:
+        nav: "docs"
