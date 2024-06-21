@@ -21,10 +21,10 @@ docs:
         url: /categories/markdown/
         category: "Markdown"
       - title: "Front-end"
-        url: /categories/Front-end/
+        url: /categories/front-end/
         category: "Front-end"
       - title: "Back-end"
-        url: /categories/Back-end/
+        url: /categories/back-end/
         category: "Back-end"
       - title: "etc"
         url: /categories/etc/
