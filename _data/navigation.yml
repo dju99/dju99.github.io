@@ -11,8 +11,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar-category:
-  - title: "카테고리"
+docs:
+  - title: "Category"
     children:
-      - title: "Algorithm"
+      - title: "알고리즘"
         url: "/algorithm"
