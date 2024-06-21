@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "[알고리즘]그리디 알고리즘 (탐욕법)"
-sidebar:
-  nav: "docs"
 excerpt_separator: <!--break-->
 date: 2024-06-18
 toc: true
