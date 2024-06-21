@@ -2,6 +2,8 @@
 layout: single
 title: "VS Code에서 Makdown 편집기 세팅하기"
 excerpt_separator: <!--break-->
+categories:
+  - "etc"
 date: 2024-04-17
 toc: true
 toc_sticky: true
