@@ -20,6 +20,12 @@ docs:
       - title: "Markdown"
         url: /categories/markdown/
         category: "Markdown"
+      - title: "Front-end"
+        url: /categories/Front-end/
+        category: "Front-end"
+      - title: "Back-end"
+        url: /categories/Back-end/
+        category: "Back-end"
       - title: "etc"
         url: /categories/etc/
         category: "etc"
