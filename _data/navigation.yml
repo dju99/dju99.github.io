@@ -12,5 +12,7 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: "알고리즘"
-    url: /algorithm/
+  - title: "Category"
+    children:
+      - title: 알고리즘
+      url: /algorithm/
