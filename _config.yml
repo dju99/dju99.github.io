@@ -313,3 +313,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      slidebar: true
