@@ -14,6 +14,9 @@ main:
 docs:
   - title: "Category"
     children:
-      - title: "알고리즘"
-        url: /categories/Algorithm/
+      - title: "algorithm"
+        url: /categories/algorithm/
         category: "Algorithm"
+      - title: "markdown"
+        url: /categories/markdown/
+        category: "Markdown"
