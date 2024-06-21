@@ -16,5 +16,7 @@ docs:
     children:
       - title: "Algorithm"
         url: /categories/algorithm/
+        category: "Algorithm"
       - title: "Markdown"
         url: /categories/markdown/
+        category: "Markdown"
