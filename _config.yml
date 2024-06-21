@@ -304,7 +304,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: docs
     values:
       layout: single
       author_profile: true
@@ -313,5 +313,5 @@ defaults:
       comments: # true
       share: true
       related: true
-      slidebar:
+      sidebar:
         nav: "docs"
