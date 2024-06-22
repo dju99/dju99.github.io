@@ -17,9 +17,6 @@ docs:
       - title: "Algorithm"
         url: /categories/algorithm/
         category: "Algorithm"
-      - title: "Markdown"
-        url: /categories/markdown/
-        category: "Markdown"
       - title: "Front-end"
         url: /categories/front-end/
         category: "Front-end"
