@@ -6,8 +6,8 @@ main:
     url: /categories/
   - title: "Github"
     url: https://github.com/dju99?tab=repositories
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Notion"
+    url: https://stream-jacket-246.notion.site/Portfolio-2040274ed2f04d2692d54fe62013f093?pvs=4
   # - title: "Sitemap"
   #   url: /sitemap/
 
