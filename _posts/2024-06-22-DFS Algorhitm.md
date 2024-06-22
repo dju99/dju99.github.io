@@ -57,7 +57,7 @@ graph = [
 
 visited = [False] * 9
 
-def dfs(graph, v , visited):
+def dfs(graph, v, visited):
   visited[v] = True
   print(v, end =" ")
   for i in graph[v]:
