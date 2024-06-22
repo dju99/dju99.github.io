@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[알고리즘] 그리디 알고리즘 (탐욕법)"
+title: "[Algorithm] 그리디 알고리즘 (탐욕법)"
 excerpt_separator: <!--break-->
 categories:
   - "Algorithm"
