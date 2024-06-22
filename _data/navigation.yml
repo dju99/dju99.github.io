@@ -24,7 +24,7 @@ docs:
         url: /categories/back-end/
         category: "Back-end"
       - title: "TypeScript"
-        url: /categories/TypeScript/
+        url: /categories/typeScript/
         category: "TypeScript"
       - title: "etc"
         url: /categories/etc/
