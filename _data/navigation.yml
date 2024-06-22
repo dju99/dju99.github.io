@@ -23,6 +23,9 @@ docs:
       - title: "Back-end"
         url: /categories/back-end/
         category: "Back-end"
+      - title: "TypeScript"
+        url: /categories/TypeScript/
+        category: "TypeScript"
       - title: "etc"
         url: /categories/etc/
         category: "etc"
